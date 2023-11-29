@@ -6,5 +6,5 @@
 
 <div>
   <a href="http://xongs08.github.io/zacchello"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xongs08&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xongs08&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
