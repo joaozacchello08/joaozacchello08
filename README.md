@@ -1,8 +1,7 @@
 ## Eai? Xongs aqui
 
-- 👨‍💻 Atualmente mexo com React e Python;
-- 🎒 Dev enquanto ainda estou no Fund. 2 HAHA;
-- 🤓 Xongs é apelido, óbviamente, me chamo João Zacchello em uma conversa mais séria;
+- 👨‍💻 Atualmente mexo com Node e React;
+- 🤓 Xongs é apelido, óbviamente, me chamo João em uma conversa mais séria;
 
 ##
 
