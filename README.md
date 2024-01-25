@@ -1,6 +1,6 @@
 ## Eai? Xongs aqui
 
-- 👨‍💻 Atualmente mexo com Node e React;
+- 👨‍💻 Atualmente mexo com React;
 - 🤓 Xongs é apelido, óbviamente, me chamo João em uma conversa mais séria;
 
 ##
