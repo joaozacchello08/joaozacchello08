@@ -1,16 +1,11 @@
-## Eai? Xongs aqui
+## Comece por aqui 
 
-- 👨‍💻 Atualmente mexo com React;
-- 🤓 Xongs é apelido, óbviamente, me chamo João em uma conversa mais séria;
+- 👨‍💻 Atualmente focado em desenvolver aplicações full-stack.
 
 ##
 
 <div>
-  <a href="https://xongs08.github.io/zacchello">
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xongs08&show_icons=true&theme=highcontrast"/>-->
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xongs08&layout=compact&langs_count=16&theme=highcontrast"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xongs08&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
   ##
