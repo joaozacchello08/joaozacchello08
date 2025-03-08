@@ -1,7 +1,7 @@
 ## Comece por aqui 
 
 - 👨‍🎓 Atualmente focado em desenvolver aplicações full-stack;
-- 👨‍💻 React, Firebase, MongoDB, Supabase, Node, Python e aspirante a Java.
+- 👨‍💻 React, Next, Firebase, MongoDB, MySQL, NodeJs e Python.
 
 ##
 
