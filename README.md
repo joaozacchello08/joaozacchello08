@@ -1,7 +1,7 @@
 ## Comece por aqui 
 
 - 👨‍🎓 Atualmente focado em desenvolver aplicações full-stack e buscando experiências profissionais;
-- 👨‍💻 Python, NodeJs, ReactJs, PostgreSQL, Firebase, MongoDB.
+- 👨‍💻 Python, NodeJs, React, PostgreSQL, Firebase, MongoDB.
 
 ##
 
