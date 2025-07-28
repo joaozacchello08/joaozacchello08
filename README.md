@@ -1,7 +1,7 @@
 ## Comece por aqui 
 
-- 👨‍🎓 Atualmente focado em desenvolver aplicações full-stack;
-- 👨‍💻 React, Next, Firebase, SQLite, NodeJs, Python, C e C++.
+- 👨‍🎓 Atualmente focado em desenvolver aplicações full-stack e buscando experiências profissionais;
+- 👨‍💻 Python, NodeJs, ReactJs, PostgreSQL, Firebase, MongoDB.
 
 ##
 
